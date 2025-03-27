@@ -33,9 +33,9 @@ I'm proficient in implementing and fine-tuning neural network architectures usin
 - 🤖 Developed automated grading scripts in Python, reducing manual grading time by 40%.
 - 💡 Guided student projects, emphasizing version control and test-driven development.
 
-### Full Stack Developer Intern (Feb 2024 - Current)
+### Full Stack Developer Intern (Feb 2024 - Present)
 **TERN, New York, USA**
-- 🛠 Leading development of an AI-Powered Legal Document Assistant using Flask (backend) and React (frontend).
+- 🛠 Leading Developing an AI-powered legal Document Assistant using Flask (backend) and React (frontend).
 - 🤖 Integrated OpenAI API to implement document generation, customization, and review features.
 - 🖌 Designed and built user interfaces with Material-UI/Tailwind CSS for legal document customization.
 - 📄 Created document review functionality allowing users to upload existing legal documents for AI analysis.

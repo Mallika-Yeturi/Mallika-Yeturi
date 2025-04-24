@@ -1,82 +1,159 @@
-# 🌟 Hi there, I'm Sri Sai Lalitha Mallika Yeturi! 🌟
+# ✨ Sri Sai Lalitha Mallika Yeturi ✨
 
-Welcome to my GitHub profile! I'm a passionate Machine Learning Engineer with a recent Master's degree in Artificial Intelligence. With a knack for deep learning, NLP, and computer vision, I love transforming complex problems into elegant AI solutions.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mallika-yeturi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeturi.mallika@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mallika-yeturi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourportfoliourl.com)
 
----
+</div>
 
-## 🚀 About Me
-I'm proficient in implementing and fine-tuning neural network architectures using PyTorch and TensorFlow. My experience spans designing and optimizing YOLO-based object detection systems, transformer models for natural language processing, and efficient data preprocessing pipelines. I thrive on translating academic concepts into practical AI applications through innovative research projects.
+## 👩‍💻 About Me 
 
----
+Machine Learning Engineer with a Master's degree in AI, passionate about solving complex problems through innovative solutions. Experienced in deep learning, NLP, and computer vision, I bridge the gap between academic research and real-world applications.
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![YOLO](https://img.shields.io/badge/-YOLO-333333?style=flat&logo=yolo)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
 
----
+## 🚀 Featured Projects
 
-## 💼 Work Experience
-### Graduate Teaching Assistant (Jan 2024 - Present)
-**Department of Artificial Intelligence, Katz School of Science and Health, Yeshiva University, New York, USA**
-- 🧑‍🏫 Mentored students in R programming, focusing on debugging and clean code practices.
-- 🤖 Developed automated grading scripts in Python, reducing manual grading time by 40%.
-- 💡 Guided student projects, emphasizing version control and test-driven development.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 AI-Powered Legal Document Assistant</h3>
+      <div align="center">
+        <a href="https://github.com/mallika-yeturi/legal-document-assistant" target="_blank">
+          <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/Legal%20.png" width="100%" alt="Legal Document Assistant"/>
+        </a>
+        <p>
+          <a href="https://github.com/mallika-yeturi/legal-document-assistant" target="_blank">
+            <img src="https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="https://legal-document-assistant.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=netlify"/>
+          </a>
+        </p>
+        <p><strong>React.js, Flask, OpenAI API, ReportLab</strong> - A smart web application that generates, customizes, and reviews legal documents using AI technology. Create professional NDAs, contracts, and wills in minutes without expensive legal fees.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐶 Canine Cardiomegaly Assessment</h3>
+      <div align="center">
+        <a href="https://github.com/mallika-yeturi/canine-cardiomegaly" target="_blank">
+          <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/Dog.png" width="100%" alt="Canine Cardiomegaly"/>
+        </a>
+        <p>
+          <a href="https://github.com/mallika-yeturi/canine-cardiomegaly" target="_blank">
+            <img src="https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>PyTorch, EfficientNet-B7</strong> - Deep learning model achieving 86% accuracy in detecting heart enlargement via Vertebral Heart Scale prediction, with optimized inference speed.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚗 Car Damage Detection & Caption</h3>
+      <div align="center">
+        <a href="https://github.com/mallika-yeturi/car-damage-detection" target="_blank">
+          <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/car.png" width="100%" alt="Car Damage Detection"/>
+        </a>
+        <p>
+          <a href="https://github.com/mallika-yeturi/car-damage-detection" target="_blank">
+            <img src="https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p><strong>YOLOv7, Transformers</strong> - Advanced system that deconstructs vehicle images into analyzable components, identifies damage with precision, and generates detailed assessment reports with 95% accuracy.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ More Projects Coming Soon!</h3>
+      <div align="center">
+        <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/ideas.png" width="100%" alt="More Projects"/>
+        <p><strong>Always learning, always building</strong> - Check back soon for more innovative AI projects and solutions!</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+## 💼 Professional Experience
 
-## 💼 Projects
-### 🐶 Deep Learning-Based Assessment of Canine Cardiomegaly via Vertebral Heart Scale Prediction
-- 🧠 Developed an EfficientNet‑B7 model achieving 86% accuracy in detecting heart enlargement via Vertebral Heart Scale.
-- 🔄 Automated data preprocessing and enforced reproducibility through Git for version control.
-- ⚡ Optimized inference speed by ~20% through model pruning and parallel data loading.
-
-### 🚗 CAR DAMAGE DETECTION AND CAPTION GENERATION USING DEEP LEARNING
-- 🔍 YOLOv7 for object detection + Transformer-based NLP module for text captioning.
-- 🛠 Achieved 95% test coverage for corner cases, integrated regression tests, and overcame unstructured data challenges.
-- 🤝 Collaborated cross-functionally, standardizing the entire claims processing workflow.
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td width="70%">
+        <h3>Graduate Teaching Assistant</h3>
+        <p><em>Katz School of Science and Health, Yeshiva University</em> | Jan 2024 - Present</p>
+        <ul>
+          <li>🧑‍🏫 Mentored students in R programming and clean code practices</li>
+          <li>🤖 Developed automated grading scripts, reducing manual grading time by 40%</li>
+          <li>💡 Guided student projects emphasizing version control and TDD</li>
+        </ul>
+      </td>
+      <td width="30%">
+        <img src="https://raw.githubusercontent.com/mallika-yeturi/project-images/main/yeshiva-logo.png" width="100%" alt="Yeshiva University"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🎓 Education
-### Katz School of Science and Health, Yeshiva University, New York, USA
-- 🎓 Master's degree in Artificial Intelligence. GPA: 3.7/4
-- **Relevant Coursework:** Advanced Algorithms, Deep Learning (Sep 2023 - Present)
 
-### Indraprastha Institute of Information Technology, Delhi, India
-- 🎓 Postgraduate Diploma in Computer Science and Artificial Intelligence. CGPA: 8.25/10
-- **Relevant Coursework:** Data Structures, System Design (Sep 2022 - Oct 2023)
+<div align="center">
+  <table>
+    <tr>
+      <td width="80%">
+        <h3>Master's in Artificial Intelligence</h3>
+        <p><em>Katz School of Science and Health, Yeshiva University</em> | Sep 2023 - Present</p>
+        <p>GPA: 3.7/4.0</p>
+        <p><strong>Coursework:</strong> Advanced Algorithms, Deep Learning, NLP, Computer Vision</p>
+      </td>
+      <td width="20%">
+        <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/Yeshiva.png" width="100%" alt="Yeshiva University"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="80%">
+        <h3>PG Diploma in Computer Science and AI</h3>
+        <p><em>Indraprastha Institute of Information Technology, Delhi</em> | Sep 2022 - Oct 2023</p>
+        <p>CGPA: 8.25/10</p>
+      </td>
+      <td width="20%">
+        <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/iiitd.png" width="100%" alt="IIIT Delhi"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="80%">
+        <h3>Bachelor's in Computer Science</h3>
+        <p><em>Villa Marie College for Women, Hyderabad</em> | Jul 2019 - Jul 2022</p>
+        <p>CGPA: 8.95/10</p>
+      </td>
+      <td width="20%">
+        <img src="https://github.com/Mallika-Yeturi/Mallika-Yeturi/blob/main/Villa%20.png" width="100%" alt="Villa Marie College"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Villa Marie College for Women, Hyderabad, India
-- 🎓 Bachelor’s in Computer Science. CGPA: 8.95/10 (Jul 2019 - Jul 2022)
+## 📜 Certifications & Skills
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_Watson-BE95FF?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
 
-## 📜 Certifications
-- 🏅 Microsoft certifications (Introduction to AI, AI on Azure)
-- 🏅 IBM Watson (Getting Started with AI)
+<hr>
 
----
-
-## 📫 Contact Information
-- 📧 **Email:** yeturi.mallika@gmail.com
-- 🔗 **LinkedIn:** [Mallika Yeturi](https://www.linkedin.com/in/mallika-yeturi)
-- 💻 **GitHub:** [Mallika Yeturi](https://github.com/mallika-yeturi)
-- 🌐 **Portfolio:** [My Great Learning ePortfolio](https://eportfolio.mygreatlearning.com/yeturi-sri-sai-lalitha-mallika)
-
----
-
-## 💬 Let's Connect!
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about technology. I'm always open to new opportunities and connections.
-
-Thank you for visiting my profile! 🌟
+<div align="center">
+  <p>💬 <em>Let's connect! Open to collaboration and new opportunities.</em> 💬</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=mallika-yeturi&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
